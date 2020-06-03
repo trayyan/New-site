@@ -14,12 +14,14 @@ var project_page = 0;
 /*Globals*/
 
 jQuery(window).ready( function($){
-    /*Make Widgets Masonry*/
-    var container = $('div.footer-widgets').get(0);
-    var msnry = new Masonry( container, {
-        itemSelector: '.widget'
-    });
-    /*Make Widgets Masonry*/
+    /*Make Widgets Masonry
+	if($('div.footer-widgets').length){
+		var container = $('div.footer-widgets').get(0);
+		var msnry = new Masonry( container, {
+			itemSelector: '.widget'
+		});
+	}
+    Make Widgets Masonry*/
 
     /*Contact Form*/
     $("body").on("submit","form#contact-page-form",function(e){
@@ -136,6 +138,7 @@ jQuery(window).ready( function($){
             this_item.addClass("current_page_item");
             $("div#inner-content").html(data);
 			get_body_class(url);
+			scrollOnTop();
         }).error(function () {
             window.location = url;
         });
@@ -245,6 +248,8 @@ jQuery(window).ready( function($){
         e.preventDefault();
         cat_filter = jQuery(this).data("filter");
         $('div.filterable').mixitup("filter",cat_filter);
+		$("div.categories-p a.active").removeClass("active");
+		$(this).addClass("active");
     });
     /*Project Filter*/
 
@@ -253,10 +258,10 @@ jQuery(window).ready( function($){
         e.preventDefault();
         var this_element = $(this);
         if(!this_element.hasClass("active")){
-            $("div.column-2").stop(true,true).fadeOut("fast",function(){
+            $("div.column-2 , div.column-3").stop(true,true).fadeOut("fast",function(){
                 $("div.column-4").stop(true,true).fadeIn("fast");
                 this_element.addClass("active");
-                $("a.project_col_two").removeClass("active");
+                $("a.project_col_two , a.project_col_three").removeClass("active");
             });
         }
     });
@@ -265,13 +270,26 @@ jQuery(window).ready( function($){
         e.preventDefault();
         var this_element = $(this);
         if(!this_element.hasClass("active")){
-            $("div.column-4").stop(true,true).fadeOut("fast",function(){
+            $("div.column-4 , div.column-3").stop(true,true).fadeOut("fast",function(){
                 $("div.column-2").stop(true,true).fadeIn("fast");
                 this_element.addClass("active");
-                $("a.project_col_four").removeClass("active");
+                $("a.project_col_four , a.project_col_three").removeClass("active");
             });
         }
     });
+
+    $("body").on("click","a.project_col_three",function(e){
+        e.preventDefault();
+        var this_element = $(this);
+        if(!this_element.hasClass("active")){
+            $("div.column-4 , div.column-2").stop(true,true).fadeOut("fast",function(){
+                $("div.column-3").stop(true,true).fadeIn("fast");
+                this_element.addClass("active");
+                $("a.project_col_four , a.project_col_two").removeClass("active");
+            });
+        }
+    });
+
     /*Switch Between Projects Layout*/
 
     
@@ -344,14 +362,14 @@ jQuery(window).ready( function($){
 
     $('body').on('click', 'a.menu-toggle', function(e){
         if($('.mobile_menu').hasClass('non-visible')) {
-            $('.mobile_menu').removeClass('non-visible').addClass('visible').stop(true,true).slideDown(300);
+            $('.mobile_menu').removeClass('non-visible').addClass('visible');
         } else {
-            $('.mobile_menu').removeClass('visible').addClass('non-visible').stop(true,true).slideUp(300);
+            $('.mobile_menu').removeClass('visible').addClass('non-visible');
         }
     });
 	
 	$(window).resize(function(){
-		$('.mobile_menu').removeClass('visible').addClass('non-visible').stop(true,true).slideUp(300);
+		//$('.mobile_menu').removeClass('visible').addClass('non-visible').stop(true,true).slideUp(300);
 	});
 });
 

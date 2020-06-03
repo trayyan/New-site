@@ -209,6 +209,8 @@ input[type=submit], input[type=button], .categories-p ul li a, .tags ul li a, .l
 	white-space: nowrap;
 	overflow: hidden;
 	color: #353535;
+	min-height: 22px;
+	margin-bottom: 6px;
 }
 
 .post_block ul li i, .um-blog-w.widget ul li p i, .post-content ul.categories li i {
@@ -367,6 +369,12 @@ h5.widget-title, h5.section-title, .short-title {
 	vertical-align: middle;
 	float: left;
 	margin-top: 15px;
+}
+
+.service-icon img{
+	height: 100%;
+	width: auto;
+	margin-top: -5px;
 }
 
 .service:hover .service-icon {
@@ -608,17 +616,13 @@ blockquote cite:before {
     background-color: #363636;
 	width: 1100px;
 	height: 675px;
+	-webkit-backface-visibility: hidden;
 }
 
 .project-slider ul li img {
 	width: auto;
-	height: 675px;
+	height: 100%;
 	opacity: 0.5;
-	transition: opacity 0.5s;
-	-webkit-transition: opacity 0.5s;
-	-moz-transition: opacity 0.5s;
-	-ms-transition: opacity 0.5s;
-	-o-transition: opacity 0.5s;
 }
 
 .project-slider ul li img.fullWidth {
@@ -642,8 +646,8 @@ blockquote cite:before {
 	list-style-type: none;
 	padding: 0px;
 	position: relative;
-	overflow: hidden;
-	padding-bottom: 45%;
+	/*overflow: hidden;
+	padding-bottom: 45%;*/
 }
 
 .slider-home .slider ul li {
@@ -1462,7 +1466,7 @@ ul.accordion li:before, .tabs ul li:before, ul.toggle li:before {
 		left: 0px;
 		width: 100%;
 		list-style-type: none;
-		display: none;
+		display: block;
 	}
 
 	.mobile_menu li a {
@@ -1509,9 +1513,8 @@ ul.accordion li:before, .tabs ul li:before, ul.toggle li:before {
 .slider-holder {
 	position: relative;
 	padding-top: -65px;
-	/* width: 1100px; */
-	height: 675px;
     overflow: hidden;
+	background-color: #363636;
 }
 
 .slider-arrows  {
@@ -1674,14 +1677,10 @@ RESPONSIVE CSS * MEDIA QUERIES
 
 /*iPad Landscape*/
 @media screen and (max-width: 1024px), screen and  (max-device-width: 1024px), screen and (max-width: 1200px) {
-	.slider-holder{
-		height: 360px;
-	}
-
 	.project-slider ul li {		
 		/* width: 588px; */
 		width: 700px;
-		height: 360px;
+		height: 430px;
 	}
 		
 	.slider-arrows{
@@ -1690,7 +1689,7 @@ RESPONSIVE CSS * MEDIA QUERIES
 	
 	.project-slider ul li img{
 		width: auto;
-		height: 360px;
+		height: 100%;
 	}
 	
 	.post-buttons ul li {
@@ -1701,13 +1700,10 @@ RESPONSIVE CSS * MEDIA QUERIES
 
 /*iPad Portrait*/
 @media handheld and (max-width: 767px), screen and (max-device-width: 767px), screen and (max-width: 960px)  {
-	.slider-holder{
-		height: 360px;
-	}
 	.project-slider ul li {
 		
 		width: 767px;
-		height: 360px;
+		height: 471px;
 	}
 	.slider-arrows{
 		display: block;
@@ -1715,7 +1711,7 @@ RESPONSIVE CSS * MEDIA QUERIES
 	
 	.project-slider ul li img{
 		width: auto;
-		height: 360px;
+		height: 100%;
 	}
 }
 
@@ -1727,11 +1723,6 @@ RESPONSIVE CSS * MEDIA QUERIES
 		
 	}
 		
-	.slider-holder{
-		width: 1100px;
-		height: 320px;
-	}
-
 	.project-slider ul li {
 		width: 490px;
 		height: 320px;
@@ -1739,7 +1730,7 @@ RESPONSIVE CSS * MEDIA QUERIES
 
 	.project-slider ul li img{
 		width: auto;
-		height: 320px;
+		height: 100%;
 	}
 
 }
@@ -1750,11 +1741,6 @@ RESPONSIVE CSS * MEDIA QUERIES
 		
 	}
 
-    .slider-holder{
-    	width: 1100px;
-		height: 280px;
-	}
-
 	.project-slider ul li {
 		width: 364px;
 		width: 320px;
@@ -1763,7 +1749,7 @@ RESPONSIVE CSS * MEDIA QUERIES
 	
 	.project-slider ul li img{
 		width: auto;
-		height: 260px;
+		height: 100%;
 	}
 	
 	.slider-home .slider ul li h1 {
@@ -1782,9 +1768,34 @@ RESPONSIVE CSS * MEDIA QUERIES
   max-width: none !important;
 }
 
+.home_slider img {
+	width: 100%;
+}
 
+body.single-format-standard .post-buttons.col-sm-1 {
+	width: 100%;
+}
 
+body.single-format-standard .post-buttons ul li {
+	padding-right: 35px;
+	display: inline-block;
+}
 
+.non-visible{
+	display:none;
+}
+
+.home_four .column-4 .post_block:nth-child(4n+1) {
+	clear: both !important;
+}
+
+.home_four .column-3 .post_block:nth-child(3n+1) {
+	clear: both !important;
+}
+
+.home_four .column-2 .post_block:nth-child(2n+1) {
+	clear: both !important;
+}
 
 
 

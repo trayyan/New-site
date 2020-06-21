@@ -8,118 +8,177 @@
 	>
 
 <channel>
-	<title>Print &#8211; My cool site</title>
+	<title>Print &#8211; Thameem R</title>
 	<atom:link href="http://192.168.0.12/wordpress/portfolio_category/print/feed/" rel="self" type="application/rss+xml" />
 	<link>http://192.168.0.12:8888/wordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 03 Jun 2020 12:15:40 +0000</lastBuildDate>
+	<description>My portfolio</description>
+	<lastBuildDate>Sun, 21 Jun 2020 13:03:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>http://192.168.0.12:8888/wordpress/wp-content/uploads/2020/06/cropped-240_F_278458160_lZ17zxDvCF3qTLEjA6TMlk3gPLM4uiBV-32x32.jpg</url>
-	<title>Print &#8211; My cool site</title>
+	<title>Print &#8211; Thameem R</title>
 	<link>http://192.168.0.12:8888/wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fika Bar</title>
-		<link>http://192.168.0.12:8888/wordpress/portfolio/fika-bar/</link>
-					<comments>http://192.168.0.12:8888/wordpress/portfolio/fika-bar/#respond</comments>
+		<title>Golf equipment pages</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/golf-equipment-pages/</link>
 		
 		<dc:creator><![CDATA[thameem]]></dc:creator>
-		<pubDate>Fri, 27 Sep 2013 10:54:44 +0000</pubDate>
-				<guid isPermaLink="false">http://nordic.umbrella.al/?post_type=portfolio&#038;p=95</guid>
+		<pubDate>Sun, 21 Jun 2020 12:52:08 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=318</guid>
 
-					<description><![CDATA[Fika Bar &#38; Kitchen, based in Brick Lane, East London, has built up a loyal following since its 2008 launch. In recent years, however, the venue’s weekday trade has suffered from an influx of new bars, restaurants and cafes into the increasingly trendy Brick Lane area. To combat this threat, Fika needed to freshen-up its [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Fika Bar &amp; Kitchen, based in Brick Lane, East London, has built up a loyal following since its 2008 launch. In recent years, however, the venue’s weekday trade has suffered from an influx of new bars, restaurants and cafes into the increasingly trendy Brick Lane area. To combat this threat, Fika needed to freshen-up its brand image to re-engage with its audience, encourage customer loyalty and re-establish its credentials as a fun, quirky place to visit. Designers Anonymous were asked to devise a flexible, easy-to-implement, multi-faceted identity that would be effective across multiple touch-points.</p>
-<p>Fika’s weekday trade has approximately tripled in volume since the new exterior signage and window displays have appeared and the recently launched ‘Fika Klubb’ has gained a steady growth in numbers. The brand refresh has been implemented in stages and further positive results are expected.</p>
-<p>&nbsp;</p>
-<p><iframe title="Sharjah GSL 19 Final 3" width="900" height="506" src="https://www.youtube.com/embed/BkAe9TeuTQc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/fika-bar/feed/</wfw:commentRss>
+		
+		
+			</item>
+		<item>
+		<title>Travel feature design</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/travel-feature-design/</link>
+					<comments>http://192.168.0.12:8888/wordpress/portfolio/travel-feature-design/#respond</comments>
+		
+		<dc:creator><![CDATA[thameem]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2020 12:49:17 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=314</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/travel-feature-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Midlands branding</title>
-		<link>http://192.168.0.12:8888/wordpress/portfolio/midlands-branding/</link>
-					<comments>http://192.168.0.12:8888/wordpress/portfolio/midlands-branding/#respond</comments>
+		<title>Worldwide Golf Magazine &#8211; Features 2</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/worldwide-golf-magazine-cover-feature-2/</link>
 		
 		<dc:creator><![CDATA[thameem]]></dc:creator>
-		<pubDate>Thu, 26 Sep 2013 12:13:11 +0000</pubDate>
-				<guid isPermaLink="false">http://nordic.umbrella.al/?post_type=portfolio&#038;p=71</guid>
+		<pubDate>Sun, 21 Jun 2020 10:50:29 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=283</guid>
 
-					<description><![CDATA[Midlands is a specialty insurance company that offers underwriting expertise to both industry partners and brokers. A company that takes pride in their staff, Midlands wanted a brand that communicated their legacy and strength, but also presented them as an approachable “people company.” That’s where Ghost stepped in. Our goal: to create a brand identity [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Midlands is a specialty insurance company that offers underwriting expertise to both industry partners and brokers. A company that takes pride in their staff, Midlands wanted a brand that communicated their legacy and strength, but also presented them as an approachable “people company.”</p>
-<p>That’s where Ghost stepped in. Our goal: to create a brand identity for Midlands that unified their brand and communicated their services and strengths. The Midlands mark was derived from two main points. One being that Midlands strives to provide a high service standard through their employees. The second is that Midlands is an industry leader with a vast and diverse set of products and services. With that in mind, we created a simple and bold typeset mark that features soft edges to appear personable and sincere.</p>
-<p>The tag line “Beyond Coverage” says that Midlands goes above and beyond; solving unique and difficult problems. The tagline also communicates that Midlands has many services to offer their clients. The colors of Midlands are monochromatic with a pop of color; infusing it with uniqueness and energy. A soft black communicates approachability. The bright green pops and serves as an updated hue of their previous hunter green. Over all the color palate is simple and sophisticated. The Midlands type family was chosen to communicate a clean, modern and strong classic feel.</p>
-<p>These graphic elements extend throughout the brand and into the website, print collateral and marketing materials.</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/midlands-branding/feed/</wfw:commentRss>
+		
+		
+			</item>
+		<item>
+		<title>Worldwide Golf &#8211; Features</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/worldwide-golf-features/</link>
+		
+		<dc:creator><![CDATA[thameem]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2020 12:42:01 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=301</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Worldwide Golf Magazine &#8211; Cover feature designs</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/worldwide-golf-magazine-cover-feature-designs/</link>
+					<comments>http://192.168.0.12:8888/wordpress/portfolio/worldwide-golf-magazine-cover-feature-designs/#respond</comments>
+		
+		<dc:creator><![CDATA[thameem]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2020 12:31:39 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=271</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/worldwide-golf-magazine-cover-feature-designs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>House illustration</title>
-		<link>http://192.168.0.12:8888/wordpress/portfolio/house-illustration/</link>
-					<comments>http://192.168.0.12:8888/wordpress/portfolio/house-illustration/#respond</comments>
+		<title>Tournament Infographics</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/tournament-infographics/</link>
 		
 		<dc:creator><![CDATA[thameem]]></dc:creator>
-		<pubDate>Thu, 26 Sep 2013 10:17:58 +0000</pubDate>
-				<guid isPermaLink="false">http://nordic.umbrella.al/?post_type=portfolio&#038;p=47</guid>
+		<pubDate>Mon, 08 Jun 2020 19:16:34 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=259</guid>
 
-					<description><![CDATA[Everyone says they are ‘green’ — so Clear’s challenge was to prove Nishi’s credentials. With out being preachy Clear set out to create a brand language that was approachable, friendly, humourous and direct. From the use of the colour yellow taken from the colour of recycling bins (beyond green it is yellow), to the immediatacy of the use of ‘Le [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Everyone says they are ‘green’ — so Clear’s challenge was to prove Nishi’s credentials. With out being preachy Clear set out to create a brand language that was approachable, friendly, humourous and direct. From the use of the colour yellow taken from the colour of recycling bins (beyond green it is yellow), to the immediatacy of the use of ‘Le Corbusier’ a stencil based font, Nishi has an immediate and directly applied feel. The visual language is bold and purposeful. The design intent was informed by our brand strategy process — and was developed to reflect the central brand thought of ‘living in a way that matters’. The applications include the brand mark, ‘Dereks Little Helper’ the sales brochure, the sales tool, art direction of the renders and most recent ad campaign. Other applications included eDMs, tender documents, hoarding, banner ads — oh yes the sales suite.</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/house-illustration/feed/</wfw:commentRss>
+		
+		
+			</item>
+		<item>
+		<title>Dubai Sports Events Guide 2019</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-events-guide-2019/</link>
+					<comments>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-events-guide-2019/#respond</comments>
+		
+		<dc:creator><![CDATA[thameem]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 18:46:36 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=223</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-events-guide-2019/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Clear design Nishi</title>
-		<link>http://192.168.0.12:8888/wordpress/portfolio/clear-design-nishi/</link>
-					<comments>http://192.168.0.12:8888/wordpress/portfolio/clear-design-nishi/#respond</comments>
+		<title>Dubai Sports Event Guide 2018</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-event-guide-2018/</link>
+					<comments>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-event-guide-2018/#respond</comments>
 		
 		<dc:creator><![CDATA[thameem]]></dc:creator>
-		<pubDate>Thu, 26 Sep 2013 08:30:23 +0000</pubDate>
-				<guid isPermaLink="false">http://nordic.umbrella.al/?post_type=portfolio&#038;p=36</guid>
+		<pubDate>Mon, 08 Jun 2020 18:42:41 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=212</guid>
 
-					<description><![CDATA[Everyone says they are ‘green’ — so Clear’s challenge was to prove Nishi’s credentials. With out being preachy Clear set out to create a brand language that was approachable, friendly, humourous and direct. From the use of the colour yellow taken from the colour of recycling bins (beyond green it is yellow), to the immediatacy of the use of ‘Le [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Everyone says they are ‘green’ — so Clear’s challenge was to prove Nishi’s credentials. With out being preachy Clear set out to create a brand language that was approachable, friendly, humourous and direct. From the use of the colour yellow taken from the colour of recycling bins (beyond green it is yellow), to the immediatacy of the use of ‘Le Corbusier’ a stencil based font, Nishi has an immediate and directly applied feel. The visual language is bold and purposeful. The design intent was informed by our brand strategy process — and was developed to reflect the central brand thought of ‘living in a way that matters’. The applications include the brand mark, ‘Dereks Little Helper’ the sales brochure, the sales tool, art direction of the renders and most recent ad campaign. Other applications included eDMs, tender documents, hoarding, banner ads — oh yes the sales suite.</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/clear-design-nishi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/dubai-sports-event-guide-2018/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Book artwork</title>
-		<link>http://192.168.0.12:8888/wordpress/portfolio/book-artwork/</link>
-					<comments>http://192.168.0.12:8888/wordpress/portfolio/book-artwork/#respond</comments>
+		<title>Report &#8211; Media Impact of Sports in Dubai</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/195/</link>
+					<comments>http://192.168.0.12:8888/wordpress/portfolio/195/#respond</comments>
 		
 		<dc:creator><![CDATA[thameem]]></dc:creator>
-		<pubDate>Wed, 25 Sep 2013 13:08:48 +0000</pubDate>
-				<guid isPermaLink="false">http://nordic.umbrella.al/?post_type=portfolio&#038;p=33</guid>
+		<pubDate>Mon, 08 Jun 2020 18:30:47 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=195</guid>
 
-					<description><![CDATA[At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/book-artwork/feed/</wfw:commentRss>
+					<wfw:commentRss>http://192.168.0.12:8888/wordpress/portfolio/195/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sport &#038; Fitness ME Magazine &#8211; Features</title>
+		<link>http://192.168.0.12:8888/wordpress/portfolio/sport-and-fitness-me-magazine-features/</link>
+		
+		<dc:creator><![CDATA[thameem]]></dc:creator>
+		<pubDate>Sat, 06 Jun 2020 18:03:40 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.0.12:8888/wordpress/?post_type=portfolio&#038;p=144</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
 		
 		
 			</item>

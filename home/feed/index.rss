@@ -10,12 +10,12 @@
 	Comments on: Home	</title>
 	<atom:link href="http://192.168.0.12/wordpress/home/feed/" rel="self" type="application/rss+xml" />
 	<link>http://192.168.0.12:8888/wordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 25 Sep 2013 12:59:41 +0000</lastBuildDate>
+	<description>My portfolio</description>
+	<lastBuildDate>Sun, 21 Jun 2020 12:36:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>

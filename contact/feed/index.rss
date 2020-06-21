@@ -10,12 +10,12 @@
 	Comments on: Contact	</title>
 	<atom:link href="http://192.168.0.12/wordpress/contact/feed/" rel="self" type="application/rss+xml" />
 	<link>http://192.168.0.12:8888/wordpress</link>
-	<description>Just another WordPress site</description>
+	<description>My portfolio</description>
 	<lastBuildDate>Wed, 03 Jun 2020 08:37:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>

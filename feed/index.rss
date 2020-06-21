@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>My cool site</title>
+	<title>Thameem R</title>
 	<atom:link href="http://192.168.0.12/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://192.168.0.12:8888/wordpress</link>
-	<description>Just another WordPress site</description>
+	<description>My portfolio</description>
 	<lastBuildDate>Tue, 02 Jun 2020 10:54:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>http://192.168.0.12:8888/wordpress/wp-content/uploads/2020/06/cropped-240_F_278458160_lZ17zxDvCF3qTLEjA6TMlk3gPLM4uiBV-32x32.jpg</url>
-	<title>My cool site</title>
+	<title>Thameem R</title>
 	<link>http://192.168.0.12:8888/wordpress</link>
 	<width>32</width>
 	<height>32</height>

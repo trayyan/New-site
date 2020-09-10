@@ -1,0 +1,408 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+
+font-family: "Operator SSm A", "Operator SSm B";font-style: normal;font-weight: 300;
+font-family: "Operator SSm A", "Operator SSm B";font-style: normal;font-weight: 400;
+font-family: "Operator SSm A", "Operator SSm B";font-style: normal;font-weight: 700;
+font-family: "Mercury SSm A", "Mercury SSm B";font-style: normal;font-weight: 400;
+font-family: "Mercury SSm A", "Mercury SSm B";font-style: normal;font-weight: 700;
+font-family: "Mercury Text G1 A", "Mercury Text G1 B";font-style: normal;font-weight: 400;
+font-family: "Mercury Text G1 A", "Mercury Text G1 B";font-style: normal;font-weight: 600;
+font-family: "Mercury Text G1 A", "Mercury Text G1 B";font-style: normal;font-weight: 700;
+
+*/
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+	-webkit-animation-name: fontfix;
+	font-size: 100%;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	margin:0 auto;
+	padding:0 auto;
+	width: 100%; /* 1500px */
+	color:rgba(0,0,0,.85);
+	background-color:rgba(75,75,75,1);
+}
+
+/* NOT SURE IF I NEED THIS
+body::after{
+    position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
+    content:url(../_images/brand_new_logo_with_shadow_over.svg.html);
+}
+*/
+
+	@-webkit-keyframes fontfix {
+	from { opacity: 1; }
+	to { opacity: 1; }
+	}
+
+	img, embed, object, video, svg {
+	max-width: 100%;
+	}
+
+	img {
+	border: 0;
+	display:block;
+	}
+	
+	svg {
+	display:block;
+	}
+
+	.clear {
+		clear:both;
+	}
+
+	hr {
+	border: 0;
+    height: 1px;
+    background-color: rgba(0,0,0, .15);
+	margin:0;
+	padding:0;
+	}
+
+/* COLORS */
+
+.red {color:rgba(242,24,24,1);}				.red_bk {background-color:rgba(242,24,24,1);}
+
+.black {color:rgba(0,0,0,.85);}				.black_bk {background-color:rgba(0,0,0,.85);}
+
+.pink {color:rgba(255,217,217,1);}			.pink_bk {background-color:rgba(255,217,217,1);}
+
+.green {color:rgba(166,235,185,1);}			.green_bk {background-color:rgba(166,235,185,1);}
+
+.yellow {color:rgba(252,249,215,1);}		.yellow_bk {background-color:rgba(252,249,215,1);}
+
+.purple {color:rgba(234,224,255,1);}		.purple_bk {background-color:rgba(234,224,255,1);}
+
+.blue {color:rgba(166,224,235,1);}		.blue_bk {background-color:rgba(166,224,235,1);}
+
+											.gray_bk {background-color:rgba(199,199,199,1);}
+
+											.white_bk {background-color:rgba(255,255,255,1);}
+.drop_shadow {
+		-o-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.6);
+		-moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.6);
+		-webkit-box-shadow:  0px 2px 5px rgba(0, 0, 0, 0.6);
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.drop_shadow_light {
+		-o-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+		-moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+		-webkit-box-shadow:  0px 2px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+
+/* TYPOGRAPHY */
+
+h1 {
+font-family: "Mercury SSm A", "Mercury SSm B";
+font-style: normal;
+font-weight: 700;
+font-size:2em;
+line-height:1em;
+color:white;
+text-align:center;
+}
+
+p {
+font-family: "Operator SSm A", "Operator SSm B";
+font-style: normal;
+font-weight: 300;
+font-size:.95em;
+letter-spacing:.01em;
+line-height:1.5em;
+color:rgba(0,0,0,.7);
+}
+
+	p strong {
+	font-weight: 700;
+	}
+
+	p strong em {
+	font-weight: 700;
+	font-style:italic;
+	}
+
+/* STRUCTURE */
+
+#container {
+	margin:0 auto;
+	padding:0;
+	width:100%;
+}
+
+#content {
+	margin:0 auto;
+	padding:0;
+}
+
+	#header {
+		position:relative;
+		padding:60px 0 0 0;
+		background-color:rgba(166,235,185,1);
+		z-index:1000;
+	}
+
+		#header #logo {
+			width: 471px;
+			height: 75px;
+			margin: 0 auto 20px;
+			background-image: url('../_images/brand_new_logo_with_shadow.png');
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-blend-mode:multiply;
+			background-color:rgba(166,235,185,1);
+			opacity: .9;
+		}
+
+			#header #logo:hover {
+				opacity:1;
+			}
+
+			#header #logo a {
+				width:100%;
+				height:100%;
+				display:block;
+			}
+
+		#header #on_this_day_top {
+		fill:white;
+		margin:0 auto;
+		padding:0;
+		}
+
+	#date {
+	position:relative;
+	padding:0 0 40px 0;
+	background-color:rgba(50,50,50,1);
+	z-index:990;
+	}
+
+		#on_this_day_bottom {
+		fill:rgba(166,235,185,1);
+		margin:0 auto;
+		padding:0;
+		position: -webkit-sticky;
+		position: -moz-sticky;
+		position: -ms-sticky;
+		position: -o-sticky;
+		position: sticky;
+		}
+		
+		#date h1 {
+			margin:10px 0 0;
+		}
+
+	#year_content {
+		margin:0 auto 40px;
+		max-width:800px;
+	}
+		
+	#year_content div:nth-child(1) {z-index:99;}
+	#year_content div:nth-child(2) {z-index:98;}
+	#year_content div:nth-child(3) {z-index:97;}
+	#year_content div:nth-child(4) {z-index:96;}
+	#year_content div:nth-child(5) {z-index:95;}
+	#year_content div:nth-child(6) {z-index:94;}
+	#year_content div:nth-child(7) {z-index:93;}
+	#year_content div:nth-child(8) {z-index:92;}
+	#year_content div:nth-child(9) {z-index:91;}
+	#year_content div:nth-child(10) {z-index:90;}
+	#year_content div:nth-child(11) {z-index:89;}
+	#year_content div:nth-child(12) {z-index:88;}
+	#year_content div:nth-child(13) {z-index:87;}
+	#year_content div:nth-child(14) {z-index:86;}
+	#year_content div:nth-child(15) {z-index:85;}
+	#year_content div:nth-child(16) {z-index:84;}
+	#year_content div:nth-child(17) {z-index:83;}
+	#year_content div:nth-child(18) {z-index:82;}
+	#year_content div:nth-child(19) {z-index:81;}
+	#year_content div:nth-child(20) {z-index:80;}
+
+		#year_content .year {
+			position:relative;
+			z-index:980;
+		}
+
+		#year_content .year div.reviewed,
+		#year_content .year div.noted,
+		#year_content .year div.spotted {
+			margin:0 0 30px 0;
+			background:white;
+		}
+		
+		#year_content .year div:last-child {
+			margin:0px;
+		}
+
+		#year_content .year h1 {
+			margin:-30px auto 40px;
+			width: 130px;
+			height: 80px;/*ADD UP TO 130 WITH PADDING TOP */
+			background: rgba(240,89,94,1);
+			border-radius: 50%;
+			padding:50px 0 0 0;
+				-o-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+				-moz-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+				-webkit-box-shadow:  3px 3px 6px rgba(0, 0, 0, 0.4);
+			box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+			position: -webkit-sticky;
+			position: -moz-sticky;
+			position: -ms-sticky;
+			position: -o-sticky;
+			position: sticky;
+			z-index:1000;
+			top: -30px;
+		}
+
+		#year_content .title {
+			position:relative;
+			padding:20px 0;
+			z-index:100;
+		}
+		
+			#year_content .title p:first-child {
+			position:absolute;
+			left: 20px;
+			text-transform:uppercase;
+			letter-spacing:.1em;
+			font-size:.75em;
+			font-weight:400;
+			line-height:2.1em;
+			}
+
+			#year_content .title p:last-child {
+			text-align:center;
+			width:70%;
+			margin:0 auto;
+ 			}
+
+		#year_content img {
+			position:relative;
+			z-index:90;
+			margin:0 auto;
+		}
+		
+		#year_content .reviewed {
+		position:relative;
+		z-index:100;
+		}
+		
+		#year_content .noted {
+		position:relative;
+		z-index:90;
+		}
+
+		#year_content .spotted:first-child {
+		position:relative;
+		z-index:80;
+		}
+		
+		#year_content .spotted:last-child {
+		position:relative;
+		z-index:70;
+		}
+
+	.lead_image {
+	width:100%;
+	height:auto;
+	position:relative;
+	overflow:hidden;
+	}
+
+	.lead_image_image {
+	float:left;
+	line-height:0;
+	width:100%;
+	}
+
+	
+	/* BEFORE AND AFTER + FRIDAY LIKES STRUCTURE */
+	
+	.lead_image_before_after, .lead_image_friday_likes {
+	width:100%;
+	position:absolute;
+	z-index:2;
+	margin-bottom: -500em;
+	padding-bottom: 500em;
+	}
+
+	.lead_image_before_after a,
+	.lead_image_friday_likes a,
+	.lead_image_image a {
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none; /* Makes sure the link   doesn't get underlined */
+	z-index:3; /* raises anchor tag above everything else in div */
+	background-color:rgba(236,236,236,1); /*workaround to make clickable in IE */
+	opacity: 0; /*workaround to make clickable in IE */
+	filter: alpha(opacity=1); /*workaround to make clickable in IE */
+	cursor:pointer!important;
+	}
+
+	.lead_image_before_after a:hover,
+	.lead_image_friday_likes a:hover,
+	.lead_image_image a:hover {
+		opacity:0;
+	}
+	
+			.lead_image_before_after_line {
+			width:50%;
+			border-right:1px solid rgba(0,0,0,.15);
+			margin-bottom: -500em;
+			padding-bottom: 500em;
+			}
+
+			.lead_image_before_after_col_01 {
+			clear:left;
+			float:left;
+			width:50%;
+			}
+			
+			.lead_image_before_after_col_02 {
+			float:left;
+			width:50%;
+			}
+
+			.lead_image_friday_likes_line_01, .lead_image_friday_likes_line_02  {
+			float:left;
+			width:33.333333333333%;
+			border-right:1px solid rgba(0,0,0,.15);
+			margin-bottom: -500em;
+			padding-bottom: 500em;
+			}
+			
+				.lead_image_friday_likes_line_02{
+				margin-left:-1px;
+				}
+
+			.lead_image_friday_likes_col_01 {
+			clear:left;
+			float:left;
+			width:33.333333333333%;
+			}
+			
+			.lead_image_friday_likes_col_02 {
+			float:left;
+			width:33.333333333333%;
+			}
+
+			.lead_image_friday_likes_col_03 {
+			float:left;
+			width:33.333333333333%;
+			}
+						

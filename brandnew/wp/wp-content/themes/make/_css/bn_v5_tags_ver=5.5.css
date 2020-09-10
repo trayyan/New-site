@@ -1,0 +1,31 @@
+/* Start Tag Cloud CSS */
+
+#cloud {
+font-family: "Operator SSm A", "Operator SSm B";
+font-style: normal;
+font-weight: 300;
+line-height: 2.5em;
+display:block;
+margin: 0 -5px 0;
+color:rgba(242,24,24,.85);
+}
+
+#cloud a,
+#cloud a:after {
+	color: rgba(0,0,0,.85);
+	text-decoration:none;
+	border-bottom:1px solid rgba(0,0,0,.15);
+	padding: 0 0 2px 0;
+}
+
+#cloud a:hover {
+		color: rgba(242,24,24,1);
+		text-decoration:none;
+		border-bottom:1px solid rgba(242,24,24,.25);
+		padding: 0 0 2px 0;
+}
+
+.tag-cloud-link {
+margin:0 5px;
+white-space:nowrap;
+}

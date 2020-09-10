@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/**
+ * Theme Name: Make
+ * Theme URI: https://thethemefoundry.com/make/
+ * Author: The Theme Foundry
+ * Author URI: https://thethemefoundry.com
+ * Description: Build a website that means business. With Make’s powerful drag and drop page builder and hundreds of Customizer options, you can effortlessly brand your site without touching a line of code. Add full-width banners, columns, and galleries to showcase your best work. The intuitive builder delivers clean, lean code — not shortcodes — so you can trust your content remains portable. Make lets you control page layout options, including sidebar display, on all your posts and pages. Choose from hundreds of Google Fonts and upload custom backgrounds everywhere. Built on a fully responsive grid, Make renders as beautifully on tablets and phone screens as it does on desktop. Make scales with your business and is fully compatible with popular plugins like WooCommerce, Gravity Forms, Contact Form 7, Jetpack, and others. For documentation on the page builder and getting started with Make, see: https://thethemefoundry.com/make-help/
+ * Version:     1.9.28
+ * Requires at least: 4.7
+ * Tested up to: 5.4
+ * Requires PHP: 5.2.4
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: make
+ * Domain Path: /languages/
+ * Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, grid-layout, buddypress, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, footer-widgets, blog, e-commerce, portfolio
+ *
+ * Make WordPress Theme, Copyright 2014-2016 The Theme Foundry
+ * Make is distributed under the terms of the GNU GPL
+ */
+
+
+/*---------------------------------------------------------
+ Contents (_contents.scss)
+-----------------------------------------------------------
+1. Code notes
+2. Reset
+3. Structure
+4. Elements
+5. Media and classes
+6. Posts
+7. Pages
+8. Widgets
+9. Sidebars
+10. Comments
+11. Forms and buttons
+12. Browser support
+-------------------------------------------------------- */
+
+
+/*---------------------------------------------------------
+ 1. Notes (_notes.scss)
+-----------------------------------------------------------
+This stylesheet uses rem values with a pixel fallback.
+-----------------------------------------------------------
+ Examples
+-----------------------------------------------------------
+* Use a pixel value with a rem fallback for font-size, padding, margins, etc.
+	padding: 22px 0;
+	padding: 1.29412rem 0; ($base)
+-----------------------------------------------------------
+ Spacing
+-----------------------------------------------------------
+The $base variable ($base: 22;) is used for spacing between elements.
+Vertical spacing between most elements should use 11px, 22px, 44px or 66px
+to maintain vertical rhythm:
+
+.my-new-div {
+	margin: 66px 0;
+	margin: 3.88235rem 0; ($base*3)
+}
+-----------------------------------------------------------
+ Further reading
+-----------------------------------------------------------
+http://snook.ca/archives/html_and_css/font-size-with-rem
+http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
+-------------------------------------------------------- */

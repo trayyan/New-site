@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.underconsideration.com/brandnew/wp/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	<channel>
+		<title>The Follow-up v2</title>
+		<atom:link href="https://www.underconsideration.com/brandnew/feed/thefollowup" rel="self" type="application/rss+xml"/>
+		<link>https://www.underconsideration.com/brandnew/</link>
+		<description>A weekly podcast that goes in depth into projects recently reviewed on Brand New, featuring conversations with the designers — and sometimes their clients — uncovering the context, background, and design decisions behind the work.</description>
+		<lastBuildDate>Tue, 18 Aug 2020 10:21:30 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>© 2020 UnderConsideration</copyright>
+		<itunes:subtitle>A weekly podcast from Brand New</itunes:subtitle>
+		<itunes:author>Brand New</itunes:author>
+					<itunes:type>episodic</itunes:type>
+					<itunes:summary>A weekly podcast that goes in depth into projects recently reviewed on Brand New, featuring conversations with the designers — and sometimes their clients — uncovering the context, background, and design decisions behind the work.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>UnderConsideration</itunes:name>
+			<itunes:email>armin@underconsideration.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+					<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Logo_Feed_Cover.png"></itunes:image>
+			<image>
+				<url>https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Logo_Feed_Cover.png</url>
+				<title>The Follow-up v2</title>
+				<link>https://www.underconsideration.com/brandnew/</link>
+			</image>
+					<itunes:category text="Arts">
+									<itunes:category text="Design"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Business">
+									<itunes:category text="Marketing"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Education">
+							</itunes:category>
+						
+		<generator>https://wordpress.org/?v=5.5</generator>
+				<item>
+					<title>King Arthur Baking Company</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/king_arthur_baking_company</link>
+					<pubDate>Tue, 04 Aug 2020 17:37:34 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=356</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Mike Schacherer, Little<br />&#8212;<br /><em>and</em><br />&#8212;<br />Ruth Perkins, King Arthur Baking Company]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Mike Schacherer, Little&#8212;and&#8212;Ruth Perkins, King Arthur Baking Company]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/356/king_arthur_baking_company.mp3" length="59639351" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Mike Schacherer, Little&#8212;and&#8212;Ruth Perkins, King Arthur Baking Company]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_007_KingArthur_Promos_Square-01.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>31:04</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>OneFootball</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/onefootball</link>
+					<pubDate>Tue, 28 Jul 2020 17:34:45 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=355</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Vinay Mistry, DesignStudio<br />&#8212;<br /><em>and</em><br />&#8212;<br />Ulf Germann, OneFootball]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Vinay Mistry, DesignStudio&#8212;and&#8212;Ulf Germann, OneFootball]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/355/onefootball.mp3" length="64822881" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Vinay Mistry, DesignStudio&#8212;and&#8212;Ulf Germann, OneFootball]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_006_OneFootball_Promos_Square-01.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>33:46</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>Waze</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/waze</link>
+					<pubDate>Tue, 21 Jul 2020 14:59:06 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=354</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Natasha Jen, Pentagram<br />&#8212;<br /><em>and</em><br />&#8212;<br />Jake Shaw, Waze]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Natasha Jen, Pentagram&#8212;and&#8212;Jake Shaw, Waze]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/354/waze.mp3" length="67580575" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Natasha Jen, Pentagram&#8212;and&#8212;Jake Shaw, Waze]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_005_Waze_Promos_Square_Image.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>35:12</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>Museu Nacional da República</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/museu_nacional_da_republica</link>
+					<pubDate>Tue, 14 Jul 2020 14:55:22 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=352</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Leo Porto &#38; Felipe Rocha, Porto Rocha<br />&#8212;<br /><em>and</em><br />&#8212;<br />Marcos Mendes, Manufatura]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Leo Porto &#38; Felipe Rocha, Porto Rocha&#8212;and&#8212;Marcos Mendes, Manufatura]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/352/museu_nacional_da_republica.mp3" length="68389744" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Leo Porto &#38; Felipe Rocha, Porto Rocha&#8212;and&#8212;Marcos Mendes, Manufatura]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_004_Museu_Promos_Square_Image.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>35:37</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>Banana Slugs</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/banana_slugs</link>
+					<pubDate>Tue, 07 Jul 2020 14:51:40 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=346</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Skye Dillon, Skye Design Studios<br />&#8212;<br /><em>and</em><br />&#8212;<br />Sue Harriman &#38; Clint Angus, UC Santa Cruz]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Skye Dillon, Skye Design Studios&#8212;and&#8212;Sue Harriman &#38; Clint Angus, UC Santa Cruz]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/346/banana_slugs.mp3" length="76330969" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Skye Dillon, Skye Design Studios&#8212;and&#8212;Sue Harriman &#38; Clint Angus, UC Santa Cruz]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_003_Banana_Slugs_Promos_Square-01.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>39:45</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>Iron City Beer</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/iron_city_beer</link>
+					<pubDate>Tue, 30 Jun 2020 19:59:50 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=310</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Aaron Easler, Top Hat<br />&#8212;<br /><em>and</em><br />&#8212;<br />Bobby Baker, Top Hat]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Aaron Easler, Top Hat&#8212;and&#8212;Bobby Baker, Top Hat]]></itunes:subtitle>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/310/iron_city_beer.mp3" length="76663665" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Aaron Easler, Top Hat&#8212;and&#8212;Bobby Baker, Top Hat]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_002_Iron_City_Beer_Promos_Square-01.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>no</itunes:block>
+					<itunes:duration>39:56</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>Popeyes</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/001_popeyes</link>
+					<pubDate>Tue, 23 Jun 2020 19:09:59 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=298</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />JB Hartford, Jones Knowles Ritchie<br />&#8212;<br /><em>and</em><br />&#8212;<br />David Fernandes, Popeyes/RBI]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;JB Hartford, Jones Knowles Ritchie&#8212;and&#8212;David Fernandes, Popeyes/RBI]]></itunes:subtitle>
+											<itunes:keywords>thefollowupepisode</itunes:keywords>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/298/001_popeyes.mp3" length="69435478" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;JB Hartford, Jones Knowles Ritchie&#8212;and&#8212;David Fernandes, Popeyes/RBI]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/08/BN_Podcast_Episode_001_Popeyes_Promo_Snippets_Image_01.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>36:10</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+							<item>
+					<title>An Introduction</title>
+					<link>https://www.underconsideration.com/brandnew/archives/thefollowup/000_an_introduction</link>
+					<pubDate>Wed, 17 Jun 2020 18:59:58 +0000</pubDate>
+					<dc:creator>arminvit</dc:creator>
+					<guid isPermaLink="false">https://www.underconsideration.com/brandnew/wp/?post_type=podcast&#038;p=295</guid>
+					<description><![CDATA[<em>with</em><br />&#8212;<br />Armin Vit<br />&#8212;<br /><em>and</em><br />&#8212;<br />Bryony Gomez-Palacio, UnderConsideration]]></description>
+					<itunes:subtitle><![CDATA[with&#8212;Armin Vit&#8212;and&#8212;Bryony Gomez-Palacio, UnderConsideration]]></itunes:subtitle>
+											<itunes:keywords>thefollowupepisode</itunes:keywords>
+																																				<content:encoded><![CDATA[]]></content:encoded>
+										<enclosure url="https://www.underconsideration.com/brandnew/podcast-download/295/000_an_introduction.mp3" length="15318957" type="audio/mpeg"></enclosure>
+											<itunes:summary><![CDATA[with&#8212;Armin Vit&#8212;and&#8212;Bryony Gomez-Palacio, UnderConsideration]]></itunes:summary>
+																<itunes:image href="https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2020/06/BN_Podcast_Episode_000_Introduction_Promos_Square.jpg"></itunes:image>
+										<itunes:explicit>clean</itunes:explicit>
+					<itunes:block>yes</itunes:block>
+					<itunes:duration>7:59</itunes:duration>
+					<itunes:author>arminvit</itunes:author>
+									</item>
+				</channel>
+</rss>
